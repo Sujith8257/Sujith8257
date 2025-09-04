@@ -1,4 +1,4 @@
-# Hi there, I'm Sujith8257 👋
+# Hi there, I'm Sujith Gopi 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and lifelong learning. I love exploring new domains in tech and enjoy working with people on open source projects. Here, you'll find my projects, contributions, and a showcase of my journey as a developer.
 
