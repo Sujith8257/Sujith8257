@@ -50,11 +50,6 @@ I believe in the power of collaboration! Here are some highlights:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujith8257/)
 
-## 📝 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Demystifying APIs: An Interactive Guide to Postman and API Integration](https://medium.com/@sujith8257/demystifying-apis-an-interactive-guide-to-postman-and-api-integration-d9f0f474007c)
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 ⭐️ From [Sujith8257](https://github.com/Sujith8257)
