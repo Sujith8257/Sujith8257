@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and lifel
 - 🌱 Currently learning: Machine Learning, Advanced Web Development, Mobile App Development, and Cloud Technologies.
 - 👯 Always looking to collaborate on open source projects and innovative applications.
 - 💬 Ask me about: Machine Learning, Web Development, JavaScript, Python, and building scalable solutions.
-- 📫 How to reach me: [Email](mailto:sujith8257@gmail.com)
+- 📫 How to reach me: [Email](mailto:sujithgopi740@gmail.com)
 - ⚡ Fun fact: I love playing chess, watching anime, crafting creative solutions, and traveling to new places.
 
 ## 🔧 Technologies & Tools
