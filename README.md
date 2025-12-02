@@ -36,9 +36,10 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and lifel
 
 ## 📈 GitHub Stats
 
-![Sujith8257's GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=Sujith8257&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-godkingjay.vercel.app/api?username=Sujith8257&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Sujith8257&layout=compact&theme=radical)
+![GitHub Stats](https://<your-app>.vercel.app/api?username=Sujith8257&show_icons=true&theme=radical)
+
 
 ## 🚀 Pull Requests & Contributions
 
